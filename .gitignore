@@ -1,0 +1,36 @@
+# OS-generated files
+Thumbs.db
+Desktop.ini
+
+# Recycle Bin folder
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Windows-specific cache or temp files
+*.tmp
+*.temp
+*.log
+*.bak
+*.old
+
+# hibernation files
+hiberfil.sys
+pagefile.sys
+swapfile.sys
+
+# Windows Explorer thumbnail cache
+Thumbs.db
+
+# User-specific files
+.DS_Store
+*.~lock.*
+*.~*
+
+# System volume information
+System Volume Information/
+
+# IDE and Editor-specific files (optional, based on tools)
+.vscode/
+.idea/

@@ -1,6 +1,9 @@
 # Southbridge-Public-Schools-Tasks
 
 Data Task for Southbridge Public Schools
+
+**Task 1 : Data Visualization and Observation Task**
+
 Benchmark Performance Levels:
 
 Blue goal = Core support; Negligible risk

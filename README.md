@@ -1,6 +1,4 @@
-# Southbridge-Public-Schools-Tasks
-
-Data Task for Southbridge Public Schools
+# Southbridge Public Schools Tasks
 
 **Task 1 : Data Visualization and Observation Task**
 

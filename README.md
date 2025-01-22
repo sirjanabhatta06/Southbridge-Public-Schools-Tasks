@@ -24,7 +24,7 @@ Red range = Intensive support; At risk
 
 # ERRORS
 
-1. ERROR EPIMS9400 : The field WA08 must contain a valid assignment code. It cannot be blank or null.
+1. ERROR 1: EPIMS9400 - The field WA08 must contain a valid assignment code. It cannot be blank or null.
 
    - Rudd, Paul (WA08 is missing)
    - Joy Randolph, Da'Vine (WA08 is missing)
@@ -33,4 +33,6 @@ Red range = Intensive support; At risk
    - Streep, Meryl (WA08 is missing)
    - Lynch, Jane (WA08 is missing)
 
-2. ERROR 2:
+2. ERROR 2:Missing Schedule Term Column
+
+3. ERROR 3: Missing Gradebook Access Column

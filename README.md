@@ -21,3 +21,14 @@ Red range = Intensive support; At risk
 - (about 80% of students who score below the 20th percentile on criterion measure fall in this range)
 
 **Task 2: Error Troubleshooting Task**
+ERROR 1:
+
+The field WA08 must contain a valid assignment code. It cannot be blank or null.
+Rudd, Paul (WA08 is missing)
+Joy Randolph, Da'Vine (WA08 is missing)
+Gomez, Selena (WA08 is missing)
+Martin, Steve (WA08 is missing)
+Streep, Meryl (WA08 is missing)
+Lynch, Jane (WA08 is missing)
+
+ERROR 2:

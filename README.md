@@ -33,12 +33,13 @@ Red range = Intensive support; At risk
    - Streep, Meryl (WA08 is missing)
    - Lynch, Jane (WA08 is missing)
 
-2. ERROR 2: Missing Schedule Term Column
+2. ERROR 2 - Missing Schedule Term Column
 
-3. ERROR 3: Missing Gradebook Access Column
+3. ERROR 3 - Missing Gradebook Access Column
 
-4. EPIMS6750: The co-teaching assignment must be between 2 and 4.
+4. ERROR 4 - EPIMS6750 - The co-teaching assignment must be between 2 and 4.
 
-   - Since Martin, Steve is the co-teacher and co-teaching assignment is only one which will trigger the error.
+   - Since Martin, Steve is the co-teacher and co-teaching assignment will be only one. This will trigger the error.
 
-5.
+5. ERROR 5: EPIMS6770
+   - Since only one Co-Teacher (Martin, Steve) is listed in the dataset, the EPIMS6770 error is triggered. The rule specifies that if Co-Teachers are reported, there must be more than one. Reporting just one Co-Teacher for a class violates this rule.

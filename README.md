@@ -22,7 +22,7 @@ Red range = Intensive support; At risk
 
 **Task 2: Error Troubleshooting Task**
 
-# ERRORS
+**ERRORS**
 
 1. ERROR 1: EPIMS9400 - The field WA08 must contain a valid assignment code. It cannot be blank or null.
 
